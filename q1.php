@@ -1,7 +1,7 @@
 <?php
 echo "<br>";
 echo "<form method='post'>";
-echo "<h3>register form</h3>"
+echo "<h3>register form</h3>";
 // echo "<lable>username: </lable>";
 // echo "<input type='text' name='username'>";
 echo "<lable>email: </lable>";
